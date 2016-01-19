@@ -1,0 +1,36 @@
+.banner {
+  text-align: center;
+  background-color: #ffe6b3;
+  font-style: bold;
+  padding: 45px;
+
+}
+
+
+.sidebar {
+  background-color:  #99cc00;
+  padding-bottom: 100% ;
+
+}
+
+.create {
+  color: #99cc00;
+}
+
+.author {
+  color: white;
+}
+
+.language {
+  color: white;
+}
+
+.output {
+  padding-top: 15px;
+}
+.main-information {
+  padding-top: 20px;
+}
+h2 {
+  height: 5%;
+}
